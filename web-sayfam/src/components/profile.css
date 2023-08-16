@@ -1,0 +1,21 @@
+.profilebox {
+  display: flex;
+  gap: 5rem;
+  align-items: flex-start;
+  padding: 1rem 0;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+}
+
+.profileinfo {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  line-height: 2rem;
+}
+.profilebox h3 {
+  padding-bottom: 1rem;
+}

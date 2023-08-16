@@ -1,0 +1,33 @@
+.introbox {
+  display: flex;
+  gap: 5rem;
+}
+
+.headline {
+  display: flex;
+  flex-direction: column;
+}
+
+.introtext {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.introfoto img {
+  width: 29.75rem;
+  height: 23.4375rem;
+  object-fit: contain;
+  object-position: center;
+}
+
+button {
+  width: 7rem;
+  height: 3rem;
+  border-radius: 10%;
+  border: solid 0.1rem #3730a3;
+  font-size: 1rem;
+  color: #3730a3;
+  font-weight: 500;
+}
