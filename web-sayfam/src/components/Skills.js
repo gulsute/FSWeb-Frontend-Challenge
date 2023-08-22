@@ -3,27 +3,28 @@ import "./skills.css";
 export default function Skills() {
   return (
     <div className="skillsbox" class="my-8">
-      <h2>Skills</h2>
+      <h2>Yetenekler</h2>
       <div className="skills">
         <div className="skill">
-          <h3>Skill 1</h3>
+          <h3>Javascript</h3>
           <p>
-            Lorem ipsum dolor sit amet. Nam molestias quas ex iusto ipsa est
-            iste commodi vel placeat placeat hic assumenda dicta.
+            Websiteleriniz ve uygulamalarınızda ihtiyacınız olacak algoritma
+            kurulumunu pratik çözümler ve doğru sonuçlar için kullanabilirim.
           </p>
         </div>
         <div className="skill">
-          <h3>Skill 2</h3>
+          <h3>CSS</h3>
           <p>
-            Lorem ipsum dolor sit amet. Nam molestias quas ex iusto ipsa est
-            iste commodi vel placeat placeat hic assumenda dicta.
+            Tasarım mükemmelliğini doğru gözle birleştirerek kullanıcılar için
+            kolaylığı ve fonksiyonelliği bir arada sunabilirim.
           </p>
         </div>
         <div className="skill">
-          <h3>Skill 3</h3>
+          <h3>Redux</h3>
           <p>
-            Lorem ipsum dolor sit amet. Nam molestias quas ex iusto ipsa est
-            iste commodi vel placeat placeat hic assumenda dicta.
+            Son yılların gözde yazılım dili olan React ve fonksiyonelliği
+            artırılarak elde edilen Redux ile tüm ihtiyaçlarınıza hizmet
+            edebilecek çözümler sağlayabilirim.
           </p>
         </div>
       </div>

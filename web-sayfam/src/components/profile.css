@@ -15,6 +15,11 @@
   gap: 3rem;
   align-items: flex-start;
   line-height: 2rem;
+  flex: 1;
+}
+
+.about {
+  flex: 1;
 }
 .profilebox h3 {
   padding-bottom: 1rem;

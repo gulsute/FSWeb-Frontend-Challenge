@@ -3,10 +3,10 @@ import "./profile.css";
 export default function Profile() {
   return (
     <div>
-      <h2>Profile</h2>
+      <h2>Profil</h2>
       <div className="profilebox">
         <div className="profile">
-          <h3>Profile</h3>
+          <h3>Profil</h3>
           <div className="profileinfo">
             <div className="questions" class="font-bold">
               <p>Doğum tarihi</p>
@@ -23,8 +23,13 @@ export default function Profile() {
           </div>
         </div>
         <div className="about">
-          <h3>About Me</h3>
-          <p>falanlar filanlar Lorem ipsum dolor sit amet</p>
+          <h3>Hakkımda</h3>
+          <p>
+            Üniversite yıllarında tasarım anlamında edindiğim beceriler ve 5+
+            yıllık kurumsal hayatımda edindiğim tecrübelerle paydaşlarımın
+            ihtiyaçlarını en iyi şekilde anlayarak onlara en uygun çözümleri
+            doğru zaman içerisinde sağlamak için çalışıyorum.
+          </p>
         </div>
       </div>
     </div>

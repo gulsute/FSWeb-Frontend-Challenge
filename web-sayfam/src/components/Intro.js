@@ -4,7 +4,10 @@ export default function Intro() {
   return (
     <div className="introbox">
       <div className="introtext">
-        <p> Gülsu Tuncay Erol</p>
+        <div class="flex my-4">
+          <div class="line-through w-20 decoration-[#3730A3]"> ---------</div>
+          <span class="text-[#4338CA] font-medium "> Gülsu Tuncay Erol</span>
+        </div>
         <div className="headline">
           <h1 className="font-bold text-7xl">Minimalizm ve </h1>{" "}
           <h1 className="font-bold text-7xl"> Çözüm Odaklı</h1>
@@ -22,7 +25,7 @@ export default function Intro() {
           <button>Linkedin</button>
         </div>
       </div>
-      <div className="introfoto">
+      <div className="introfoto ">
         <img src="./gulsufoto.jpg" alt="image" />
       </div>
     </div>
