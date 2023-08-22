@@ -1,0 +1,18 @@
+.projects {
+  display: flex;
+  gap: 7.5rem;
+}
+
+.projects p {
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.projects h3 {
+  padding: 1rem 0;
+}
+
+.projects img {
+  width: 18.75rem;
+  height: 11.25rem;
+}
