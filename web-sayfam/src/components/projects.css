@@ -1,6 +1,7 @@
 .projects {
   display: flex;
   gap: 7.5rem;
+  flex-wrap: wrap;
 }
 
 .projects p {
@@ -15,4 +16,12 @@
 .projects img {
   width: 18.75rem;
   height: 11.25rem;
+}
+
+.projectimg {
+  box-sizing: border-box;
+}
+
+.project {
+  flex: 1;
 }

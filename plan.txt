@@ -1,0 +1,29 @@
+- içeriği taslak olarak componentlerde oluştur
+	-Header
+	-Footer
+	+Intro
+	+Profile
+	+Projects
+	+Skills
+
+- tasarımı tamamla
+	-Header
+	-Footer
+	-Intro
+	-Profile
+	-Projects
+	-Skills
+
+- vercelle proje linklerini hazırla (1 eksik)
+- içerikleri ve linkleri ver
+- dark mode ekle
+- responsive !!!!!
+- regress ?
+- ingilizce dili ?
+- local storage ile seçimleri tut ?
+
+dark mode tailwind ile yapılabilir
+veya genel tasarımı normal css ile yapıp özelleştirmeler tailwind ile yapılabilir
+
+
+10 yıldır görsel tasarımla ilgileniyor ve websitesi tasarlama deneyimimi problem çözme becerimi de merkeze alarak gittikçe genişletiyorum. Müşterileriniz ve sizin için fonksiyonel ve kullanıcı deneyimini önemseyen minimalist tasarımlar için benimle çalışmak ister misiniz?
