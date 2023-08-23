@@ -1,5 +1,5 @@
 - içeriği taslak olarak componentlerde oluştur
-	-Header
+	+Header
 	+Footer
 	+Intro
 	+Profile
@@ -7,7 +7,7 @@
 	+Skills
 
 - tasarımı tamamla
-	-Header
+	+Header
 	+Footer
 	+Intro
 	+Profile
@@ -15,7 +15,8 @@
 	+Skills
 
 - vercelle proje linklerini hazırla (1 eksik)
-- içerikleri ve linkleri ver
++ içerikler
+- linkleri ver
 - dark mode ekle
 - responsive !!!!!
 - regress ?

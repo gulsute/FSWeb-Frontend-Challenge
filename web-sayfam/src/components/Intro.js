@@ -43,7 +43,7 @@ export default function Intro() {
         </div>
       </div>
       <div className="introfoto ">
-        <img src="./gulsufoto.jpg" alt="image" />
+        <img class="rounded-2xl shadow-lg" src="./gulsufoto.jpg" alt="image" />
       </div>
     </div>
   );

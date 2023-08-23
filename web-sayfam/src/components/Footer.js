@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer class="bg-[#F9F9F9] h-96 dark:bg-[#141414]">
-      <div className="footerbox" class="flex gap-36 max-w-5xl m-auto">
+      <div className="footerbox" class="flex gap-36 max-w-6xl px-4 m-auto">
         <div className="footerleft" class="flex flex-col flex-1 ">
           <p class="text-4xl font-bold flex-1 py-12 dark:text-[#AEBCCF]">
             Bir sonraki ürününüz için birlikte çalışalım!
