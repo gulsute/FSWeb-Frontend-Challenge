@@ -26,7 +26,7 @@ export default function Profile() {
           <h3>Hakkımda</h3>
           <p>
             Üniversite yıllarında tasarım anlamında edindiğim beceriler ve 5+
-            yıllık kurumsal hayatımda edindiğim tecrübelerle paydaşlarımın
+            yıllık kurumsal hayatımda kazandığım tecrübelerle paydaşlarımın
             ihtiyaçlarını en iyi şekilde anlayarak onlara en uygun çözümleri
             doğru zaman içerisinde sağlamak için çalışıyorum.
           </p>

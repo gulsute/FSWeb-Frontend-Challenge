@@ -1,6 +1,6 @@
 - içeriği taslak olarak componentlerde oluştur
 	-Header
-	-Footer
+	+Footer
 	+Intro
 	+Profile
 	+Projects
@@ -8,11 +8,11 @@
 
 - tasarımı tamamla
 	-Header
-	-Footer
-	-Intro
-	-Profile
+	+Footer
+	+Intro
+	+Profile
 	-Projects
-	-Skills
+	+Skills
 
 - vercelle proje linklerini hazırla (1 eksik)
 - içerikleri ve linkleri ver
