@@ -15,6 +15,23 @@ export default function Projects() {
             uzaya çok meraklı ve uzay görsellerine bayılan bir yakınınız vardır.
             İşte onlarla paylaşabileceğiniz bir proje.
           </p>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            react
+          </span>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            axios
+          </span>
+          <div className="projectlinks">
+            <a
+              class="dark:text-[#E1E1FF]"
+              href="https://github.com/gulsute/FSWeb-S6G3-Nasa"
+            >
+              Github
+            </a>
+            <a class="dark:text-[#E1E1FF]" href="https://dailynasa.vercel.app/">
+              Siteye Git
+            </a>
+          </div>
         </div>
         <div className="project">
           <div className="projectimg">
@@ -26,16 +43,61 @@ export default function Projects() {
             bilemediği anlar olmuştur. Hiç merak etmeyin ve bu websitesine
             girerek size önerilerde bulunmasına izin verin!
           </p>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            react
+          </span>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            axios
+          </span>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            toastify
+          </span>
+          <div className="projectlinks">
+            <a
+              class="dark:text-[#E1E1FF]"
+              href="https://github.com/gulsute/fsweb-s10g4-thunk-and-apis"
+            >
+              Github
+            </a>
+            <a class="dark:text-[#E1E1FF]" href="https://r-u-bored.vercel.app/">
+              Siteye Git
+            </a>
+          </div>
         </div>
         <div className="project">
           <div className="projectimg">
-            <img src="./proje3-temsili.jpg" alt="image" />
+            <img src="./proje3-minnet.png" alt="image" />
           </div>
-          <h3 class="dark:text-[#B7AAFF]">Project 3</h3>
+          <h3 class="dark:text-[#B7AAFF]">Minnet Günlüğü</h3>
           <p class="dark:text-[#FFFFFF]">
-            Lorem ipsum dolor sit amet. Nam molestias quas ex iusto ipsa est
-            iste commodi vel placeat placeat hic assumenda dicta.
+            Zaman zaman hayatta çok büyük mutluluklar yaşarız ve bunları
+            unutmayız anccak hatırlanması gereken küçük mutlu anlar için
+            tasarlanmış bir proje. Teknoloji çağında pratiklik sağlayan bu
+            uygulamanın hayatınızın birçok noktasına değineceğine eminim.
           </p>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            react
+          </span>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            redux
+          </span>
+          <span class="dark:bg-[#383838] dark:text-[#8F88FF] dark:border-[#8F88FF]">
+            toastify
+          </span>
+          <div className="projectlinks">
+            <a
+              class="dark:text-[#E1E1FF]"
+              href="https://github.com/gulsute/fsweb-s10-challenge"
+            >
+              Github
+            </a>
+            <a
+              class="dark:text-[#E1E1FF]"
+              href="https://minnetlerim.vercel.app/"
+            >
+              Siteye Git
+            </a>
+          </div>
         </div>
       </div>
     </div>

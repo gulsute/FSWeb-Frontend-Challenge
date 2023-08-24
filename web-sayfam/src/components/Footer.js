@@ -6,17 +6,30 @@ export default function Footer() {
           <p class="text-4xl font-bold flex-1 py-12 dark:text-[#AEBCCF]">
             Bir sonraki ürününüz için birlikte çalışalım!
           </p>
-          <p class="text-[#AF0C48] text-xl font-semibold flex-1 dark:text-[#BAB2E7]">
+          <a
+            href="mailto:gulsu.tuncay@gmail.com"
+            class="text-[#AF0C48] text-xl font-semibold flex-1 dark:text-[#BAB2E7]"
+          >
             👉 gulsu.tuncay@gmail.com
-          </p>
+          </a>
         </div>
         <div
           className="footerright"
           class="text-lg font-semibold flex gap-8 flex-1 justify-end items-end px-1"
         >
           <p class="text-[#0A0A14] dark:text-[#E1E1FF]">Kişisel Blog</p>
-          <p class="text-[#00AB6B]  dark:text-[#17D18B]">Github</p>
-          <p class="text-[#0077B5]  dark:text-[#0BA6F6]">Linkedin</p>
+          <a
+            href="https://github.com/gulsute"
+            class="text-[#00AB6B]  dark:text-[#17D18B]"
+          >
+            Github
+          </a>
+          <a
+            href="https://www.linkedin.com/in/g%C3%BClsu-tuncay-b86961194/"
+            class="text-[#0077B5]  dark:text-[#0BA6F6]"
+          >
+            Linkedin
+          </a>
         </div>
       </div>
     </footer>

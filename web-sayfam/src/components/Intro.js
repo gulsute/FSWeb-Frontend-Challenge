@@ -31,15 +31,21 @@ export default function Intro() {
           ister misiniz?
         </p>
         <div className="introbuttons">
-          <button class="bg-blue text-white dark:bg-[#E1E1FF] dark:text-[#000000]">
-            Bana ulaş
-          </button>
-          <button class="mx-3 dark:bg-[#383838] dark:border-[#E1E1FF] dark:text-[#E1E1FF]">
-            Github
-          </button>
-          <button class=" dark:bg-[#383838] dark:border-[#E1E1FF] dark:text-[#E1E1FF]">
-            Linkedin
-          </button>
+          <a href="mailto:gulsu.tuncay@gmail.com">
+            <button class="bg-blue text-white dark:bg-[#E1E1FF] dark:text-[#000000]">
+              Bana ulaş
+            </button>
+          </a>
+          <a href="https://github.com/gulsute">
+            <button class="mx-3 dark:bg-[#383838] dark:border-[#E1E1FF] dark:text-[#E1E1FF]">
+              Github
+            </button>
+          </a>
+          <a href="https://www.linkedin.com/in/g%C3%BClsu-tuncay-b86961194/">
+            <button class=" dark:bg-[#383838] dark:border-[#E1E1FF] dark:text-[#E1E1FF]">
+              Linkedin
+            </button>
+          </a>
         </div>
       </div>
       <div className="introfoto ">
